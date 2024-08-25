@@ -1,60 +1,123 @@
-Travel booking app with multiuser chating using MERN stack, NextJS, Socket.io and Redux
 
-This is completely production ready application. Tested on windows vps live server using IIS. It's ready to host and make the site live...
+# Travel-Booking-Frontend-NextJS-Redux-Vercel
 
-Recommended NodeJS Version v16.20.1
+A brief description of what this project does and who it's for
 
-Recommended NPM Version v8.19.4
 
-Recommended Yarn Version v1.22.19
+![Logo](https://atiqlab.bigosofts.com/wp-content/uploads/2024/08/rsz_logo.png)
 
-Open the project directory in VSCode or other code editor.
 
-In terminal run the following command:
+## Deployment
 
--"yarn install"
+To deploy this project download it, make a zip file and upload it to wordpress theme
 
--"yarn run dev" for development mode
+```bash
+  git clone https://github.com/bigosofts/Travel-Booking-Frontend-NextJS-Redux-Vercel.git
+```
 
-or,
+```bash
+  cd Travel-Booking-Frontend-NextJS-Redux-Vercel
+```
 
--"yarn run build" for building production app and then "yarn start" for starting the servers.
+```bash
+  yarn install
+```
 
-//Database creation for Demo content load
+```bash
+  yarn run build
+```
 
--create a MongoDB database using the name "activeascents"
+```bash
+  yarn start
+```
 
--create some collections using the following names:
 
-    clients
-    conversations
-    instructors
-    messages
-    orders
-    packages
-    posts
-    widgets
+## Authors
 
--Now, using mongoDB compass import the JSON object to each of the collection.
+- [@Abdullah Al Amin](https://www.linkedin.com/in/abdullah-al-amin-93408b192)
 
--You will find demo json object for collections in "/database" folder
 
-//Demo Admin Dashboard
+## Demo
 
-User: "abdullahlimon"
+Browse this link to see theme in action:
 
-Password: "12345678" or "1234567"
+https://travel-booking-frontend-next-js-redux-vercel.vercel.app/
+## Features
 
-//Demo Client Dashboard
+- Frontend is seperated. NextJS is Running on specific port
+- Deployed in vercel (Official NextJS Creator)
+- Browse Travel Package
+- Blog Features
+- Single blog page
+- Single Package page
+- Review System with star
+- lient, Instructor and Admin Dashboard
+- Client an create custom order
+- Instructor can bid client via messaging
+- Instructor can create travel package
+- Order Management
+- Navigation Menu
+- Select Travel Package
+- Custom Query Message
+- Start chat with Travel guide
+- Negotiate with Price
+- Client Signup
+- Login as Guide or Client
+- Instructor can create custom price for package
+- Pending Image and Offer message to client
+- Client order placement in Chat
+- Ticket generation
 
-User: "rabeya23"
 
-Password: "12345678" or "1234567"
+## Screenshots
+Hero Section
+![App Screenshot](https://atiqlab.bigosofts.com/wp-content/uploads/2024/08/Screenshot-from-2024-08-25-12-41-56.png)
 
-//Demo Instructor Dashboard
+Admin Dashboard
+![App Screenshot](https://atiqlab.bigosofts.com/wp-content/uploads/2024/08/Screenshot-from-2024-08-25-12-46-25.png)
 
-User: "limon"
+Rich Text Editor
+![App Screenshot](https://atiqlab.bigosofts.com/wp-content/uploads/2024/08/Screenshot-from-2024-08-25-12-46-52.png)
 
-Password: "12345678" or "1234567"
+Instructor and Client Dashboard
+![App Screenshot](https://atiqlab.bigosofts.com/wp-content/uploads/2024/08/Screenshot-from-2024-08-25-12-44-37.png)
 
-Now you are ready to go...
+Feature Card
+![App Screenshot](https://atiqlab.bigosofts.com/wp-content/uploads/2024/08/Screenshot-from-2024-08-25-12-42-39.png)
+
+Blog Section
+![App Screenshot](https://atiqlab.bigosofts.com/wp-content/uploads/2024/08/Screenshot-from-2024-08-25-12-42-56.png)
+
+Post Single Page
+![App Screenshot](https://atiqlab.bigosofts.com/wp-content/uploads/2024/08/Screenshot-from-2024-08-25-12-43-56.png)
+
+All Travel Packages
+![App Screenshot](https://atiqlab.bigosofts.com/wp-content/uploads/2024/08/new2.png)
+
+Footer Section
+![App Screenshot](https://atiqlab.bigosofts.com/wp-content/uploads/2024/08/Screenshot-from-2024-08-25-12-43-10.png)
+
+Single Package Page
+![App Screenshot](https://atiqlab.bigosofts.com/wp-content/uploads/2024/08/Screenshot-from-2024-08-25-12-55-11.png)
+
+## Support
+
+For support, email bigosofts@gmail.com or contact me on Facebook or LinkedIn. You will find social media link in my github profile
+
+
+## FAQ
+
+#### How to use this template in my pc?
+
+Download the source code. Make some command that I put it in earlier sections and launch the project. You may need to edit backend api endpoint in all files of  apiservices folder if you use seperate backend for this project other than me.
+
+#### Do you provide demo database for this project?
+
+yes, if someone need it, Just knock at me. I will provide you the demo database for running the complete app
+
+
+## Tech Stack
+
+**Client:** HTML, CSS, ReactJS, NextJS
+
+**Deployment:** Vercel Serverless
