@@ -70,34 +70,34 @@ https://travel-booking-frontend-next-js-redux-vercel.vercel.app/
 
 
 ## Screenshots
-Hero Section
+  Hero Section
 ![App Screenshot](https://atiqlab.bigosofts.com/wp-content/uploads/2024/08/Screenshot-from-2024-08-25-12-41-56.png)
 
-Admin Dashboard
+  Admin Dashboard
 ![App Screenshot](https://atiqlab.bigosofts.com/wp-content/uploads/2024/08/Screenshot-from-2024-08-25-12-46-25.png)
 
-Rich Text Editor
+  Rich Text Editor
 ![App Screenshot](https://atiqlab.bigosofts.com/wp-content/uploads/2024/08/Screenshot-from-2024-08-25-12-46-52.png)
 
-Instructor and Client Dashboard
+  Instructor and Client Dashboard
 ![App Screenshot](https://atiqlab.bigosofts.com/wp-content/uploads/2024/08/Screenshot-from-2024-08-25-12-44-37.png)
 
-Feature Card
+  Feature Card
 ![App Screenshot](https://atiqlab.bigosofts.com/wp-content/uploads/2024/08/Screenshot-from-2024-08-25-12-42-39.png)
 
-Blog Section
+  Blog Section
 ![App Screenshot](https://atiqlab.bigosofts.com/wp-content/uploads/2024/08/Screenshot-from-2024-08-25-12-42-56.png)
 
-Post Single Page
+  Post Single Page
 ![App Screenshot](https://atiqlab.bigosofts.com/wp-content/uploads/2024/08/Screenshot-from-2024-08-25-12-43-56.png)
 
-All Travel Packages
+  All Travel Packages
 ![App Screenshot](https://atiqlab.bigosofts.com/wp-content/uploads/2024/08/new2.png)
 
-Footer Section
+  Footer Section
 ![App Screenshot](https://atiqlab.bigosofts.com/wp-content/uploads/2024/08/Screenshot-from-2024-08-25-12-43-10.png)
 
-Single Package Page
+  Single Package Page
 ![App Screenshot](https://atiqlab.bigosofts.com/wp-content/uploads/2024/08/Screenshot-from-2024-08-25-12-55-11.png)
 
 ## Support
