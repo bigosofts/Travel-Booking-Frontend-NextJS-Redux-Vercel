@@ -39,7 +39,7 @@ To deploy this project download it, make a zip file and upload it to wordpress t
 
 ## Demo
 
-Browse this link to see theme in action:
+Browse this link to see website is in action:
 
 https://travel-booking-frontend-next-js-redux-vercel.vercel.app/
 ## Features
