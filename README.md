@@ -9,7 +9,7 @@ A brief description of what this project does and who it's for
 
 ## Deployment
 
-To deploy this project download it, make a zip file and upload it to wordpress theme
+To deploy this project run the following command:
 
 ```bash
   git clone https://github.com/bigosofts/Travel-Booking-Frontend-NextJS-Redux-Vercel.git
@@ -34,7 +34,7 @@ To deploy this project download it, make a zip file and upload it to wordpress t
 
 ## Authors
 
-- [@Abdullah Al Amin](https://www.linkedin.com/in/abdullah-al-amin-93408b192)
+- [@Abdullah Al Amin](https://github.com/bigosofts)
 
 
 ## Demo
@@ -42,6 +42,7 @@ To deploy this project download it, make a zip file and upload it to wordpress t
 Browse this link to see website is in action:
 
 https://travel-booking-frontend-next-js-redux-vercel.vercel.app/
+
 ## Features
 
 - Frontend is seperated. NextJS is Running on specific port
